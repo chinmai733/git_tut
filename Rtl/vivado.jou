@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Wed Feb 25 14:24:47 2026
+# Process ID: 23460
+# Current directory: C:/Users/user/OneDrive/Desktop/git_tut/Rtl
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15220 C:\Users\user\OneDrive\Desktop\git_tut\Rtl\Rtl.xpr
+# Log file: C:/Users/user/OneDrive/Desktop/git_tut/Rtl/vivado.log
+# Journal file: C:/Users/user/OneDrive/Desktop/git_tut/Rtl\vivado.jou
+# Running On        :DESKTOP-MOEUPLV
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+# CPU Frequency     :1800 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :8458 MB
+# Swap memory       :3062 MB
+# Total Virtual     :11521 MB
+# Available Virtual :2399 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/user/OneDrive/Desktop/git_tut/Rtl/Rtl.xpr
+update_compile_order -fileset sources_1
